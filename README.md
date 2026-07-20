@@ -1,4 +1,4 @@
-# 🚀 Witaj na mrfk1411.github.io!
+# 🚀 Witaj na MrFK1411.github.io!
 
 Siema! To jest repozytorium mojej osobistej strony internetowej, hostowanej bezpośrednio przez **GitHub Pages**. Projekt służy jako moja wizytówka w sieci, miejsce do testowania nowych rozwiązań frontendowych oraz hub dla moich mniejszych projektów.
 
